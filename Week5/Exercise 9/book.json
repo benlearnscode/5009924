@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "price": 45.00,
+    "isbn": "978-0134685991",
+    "_links": {
+        "self": {
+            "href": "http://localhost:8080/books/1"
+        }
+    }
+}
